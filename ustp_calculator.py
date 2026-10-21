@@ -1,3 +1,5 @@
+# USTP Student GWA Calculator - Final Refined Build
+
 BLUE = "\033[94m"
 GOLD = "\033[93m"
 GREEN = "\033[92m"
